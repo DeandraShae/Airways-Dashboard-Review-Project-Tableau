@@ -4,3 +4,5 @@ For this project, I created a **data visualization dashboard** focused on custom
 🔗 [Check out the interactive dashboard here!](https://public.tableau.com/shared/WPS3HZYZQ?:display_count=n&:origin=viz_share_link)
 
 Shout-out to **Mo Chen** for this project! 🙌
+
+![image](https://github.com/user-attachments/assets/e3dfd24f-4ce1-4e1e-b4f8-6ec81008007a)
